@@ -1,0 +1,2 @@
+# groupmix
+Gruppen zufällig einteilen
