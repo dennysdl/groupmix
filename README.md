@@ -3,6 +3,8 @@ Gruppen zufällig einteilen
 
 **GroupMix** ist ein kleines Web-Tool zum automatischen Erstellen von **durchmischten Kleingruppen** aus einer Liste von Personen.
 
+<img width="2452" height="986" alt="bettershot_1772732251346" src="https://github.com/user-attachments/assets/4c2f8936-2882-40e5-a087-3aa2781a0e82" />
+
 Die Idee dahinter kommt aus der Praxis von **Jugendfreizeiten, Jugendgruppen und Workshops**: Man möchte Teilnehmende zufällig in neue Gruppen einteilen – zum Beispiel für Bibelarbeiten, Gesprächsrunden oder Spiele – ohne dass immer wieder die gleichen Leute zusammen landen.
 
 GroupMix erstellt solche Gruppen automatisch und versucht dabei gleichzeitig zu vermeiden, dass Personen immer wieder denselben Leuten begegnen.
@@ -69,6 +71,8 @@ Sabine Fischer 42 f MA
 
 Die Gruppenerstellung kann über mehrere Einstellungen beeinflusst werden.
 
+<img width="1224" height="1868" alt="bettershot_1772732320376" src="https://github.com/user-attachments/assets/89583f14-0af7-47b4-b253-475c16e84f48" />
+
 **Gruppengröße**  
 Es kann festgelegt werden, wie viele Personen in einer Gruppe sein sollen (typisch z. B. 3–5).
 
@@ -101,6 +105,8 @@ Titel: Lest Matthäus 17
 Text: Frage 1, Frage 2, Frage 3
 
 Der Text erscheint oberhalb der generierten Gruppen. Projiziert ihr die Gruppeneinteilung, steht der Text so praktisch oben drüber.
+
+<img width="2474" height="1866" alt="bettershot_1772732429759" src="https://github.com/user-attachments/assets/defb0870-6938-4579-8493-e09aa4fdd5e2" />
 
 
 ## Datenspeicherung
